@@ -1,0 +1,8 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./types",
+    "typeRoots": ["./types", "./node_modules/@types"]
+  },
+  "include": ["src"]
+}

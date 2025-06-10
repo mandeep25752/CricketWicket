@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "1095918266994",
+    "project_id": "cricketwickets",
+    "storage_bucket": "cricketwickets.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095918266994:android:5c6a24bc6d0da80e68b0eb",
+        "android_client_info": {
+          "package_name": "com.cricketwickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095918266994-1dcvboe27rv2u4n5caetsmemmgbttrpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricketwickets",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1095918266994-5mdv511cn436lrh15qmkvm7okprje2mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricketwickets",
+            "certificate_hash": "e689d9be6473386ca6bc2fff39a3900a3f1abf0c"
+          }
+        },
+        {
+          "client_id": "1095918266994-hud80a3t86ho9ahbmf1qikqfuc54vq2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricketwickets",
+            "certificate_hash": "d332b02a51ca547befd2ce8f1b4e5f9cbc2e54bf"
+          }
+        },
+        {
+          "client_id": "1095918266994-q5umm4ft099lghl4ciqplpp40k16a040.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricketwickets",
+            "certificate_hash": "74efa22fdbbd2b6a979d22e356323f177c669b9e"
+          }
+        },
+        {
+          "client_id": "1095918266994-6s7hoo4dt4e1856adrdhuoea72mh13k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC9MPuqoEnMjIhkAHznuWuGcreUEnTKUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095918266994-2bm1od4e01nc30fqcg5agk634ktc49u5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095918266994-38l45ransbok24imtpvcuqf3akql522i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Cricket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

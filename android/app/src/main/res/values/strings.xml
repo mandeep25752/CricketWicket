@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cricket</string>
+    
+<string name="facebook_app_id">2195605114108945</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">3c86f8c977f22e5a5af160a509efc884</string>
+
+
+</resources>
